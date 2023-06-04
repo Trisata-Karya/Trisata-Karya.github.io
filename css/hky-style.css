@@ -1566,7 +1566,7 @@ body {
     }
 
     .background-master {
-        background-image: url('/asset/img/Background_04.png') !important;
+        background-image: url('/asset/img/background_04.png') !important;
         height: 640px;
     }
 
